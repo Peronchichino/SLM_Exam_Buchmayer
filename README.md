@@ -22,5 +22,5 @@ Document
 # Usage of the software
 - "localhost:8080/api/quadrat?x=10" --> 100
 
-#Author
+# Author
 - Lukas Buchmayer (ic21b128)
